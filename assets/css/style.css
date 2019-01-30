@@ -2,10 +2,8 @@
 	padding-top: 5%;
 } */
 
-.jumbotron{
-	/*padding: 1%;*/
-	background-color: #00a7a7;
-	color: #ffffff;
+body{
+	background-color: rgb(241, 241, 241);
 }
 
 #movies{
