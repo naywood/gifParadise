@@ -67,6 +67,7 @@ $(document).ready(function () {
 	}
 
 	
+	
 	$(document).on("click", ".gif", changeState);
 
 });
